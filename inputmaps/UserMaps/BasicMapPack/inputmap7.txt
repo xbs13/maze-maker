@@ -1,0 +1,14 @@
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ X X X X X X X X X X X X _
+_ X _ _ X _ _ K _ _ _ _ X _
+_ X B _ X _ _ H _ _ _ _ X _
+_ X S B X _ _ _ _ _ _ _ X _
+_ X H H X _ _ _ _ _ _ _ X _
+_ X _ _ _ _ H _ _ _ _ _ X _
+_ X _ _ _ _ _ H _ _ _ _ X _
+_ X _ _ H _ B K _ _ _ _ X _
+_ X _ _ _ _ H _ _ X X D X _ 
+_ X _ H _ _ _ _ _ X H H X _ 
+_ X _ _ _ _ _ _ _ X H O X _
+_ X X X X X X X X X X X X _
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
